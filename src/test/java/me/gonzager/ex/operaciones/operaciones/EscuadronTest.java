@@ -1,4 +1,4 @@
-package me.gonzager.ex.operaciones;
+package me.gonzager.ex.operaciones.operaciones;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
